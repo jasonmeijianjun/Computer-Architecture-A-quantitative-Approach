@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 1.1.a.c -lm
+gcc 1.2.a.c -lm
